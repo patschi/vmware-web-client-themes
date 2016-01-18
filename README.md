@@ -16,7 +16,7 @@ Put the theme folder with the existing directory structure in the right director
 For more information how to customize the web client check out [the article "How to customize the new vSphere 6.0 Web Client login UI?"](http://www.virtuallyghetto.com/2015/02/how-to-customize-the-new-vsphere-6-0-web-client-login-ui.html) by [William Lam](http://twitter.com/lamw).
 
 More themes by other people are available at...
- * [https://github.com/lamw/customize-vsphere-web-client-6.0](github.com/lamw/customize-vsphere-web-client-6.0)
+ * [github.com/lamw/customize-vsphere-web-client-6.0](https://github.com/lamw/customize-vsphere-web-client-6.0)
 
 ## Themes
 **StarCitizen01**
