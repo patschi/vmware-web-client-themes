@@ -1,9 +1,14 @@
 # VMware Web Client Themes
 
+## Requirements
+
+ * At least VMware vCenter 6.0
+ * File access to replace theme files
+
 ## Installation
 Put the theme folder with the existing directory structure in the right directory.
 
-**Windows vCenter Server 6.0**
+**VMware Windows vCenter Server 6.0**
 
     C:\ProgramData\VMware\vCenterServer\runtime\VMwareSTSService\webapps\websso\
 
