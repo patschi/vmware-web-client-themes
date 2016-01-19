@@ -219,10 +219,15 @@ body {
 	font-size: 12.5px;
 	padding-left: 20px;
 	color: #87CEFF;
+	margin-top: 7px;
+	margin-left: -40px;
+	width: 260px;
+	word-wrap: break-word;
 }
 
 #progressBar {
 	display: none;
+	margin-left: -50px;
 }
 
 .footer {

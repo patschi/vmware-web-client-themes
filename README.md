@@ -7,9 +7,11 @@ Put the theme folder with the existing directory structure in the right director
 
     C:\ProgramData\VMware\vCenterServer\runtime\VMwareSTSService\webapps\websso\
 
-**VCSA 6.0**
+**VMware vCenter Server Appliance 6.0**
 
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/
+
+(One way to transfer the theme files on the VCSA is to enable SFTP access on the VCSA. How this can be done, you may find out here: "[vCSA 6.0 tricks: shell access, password expiration and certificate warnings](http://www.v-front.de/2015/03/vcsa-60-tricks-shell-access-password.html)".
 
 ## Information
 
