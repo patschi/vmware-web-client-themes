@@ -80,14 +80,14 @@ body {
 	top: 300px;
 	width: 275px;
 	padding-left: 60px;
-	z-index:3;
+	z-index: 3;
 
 	background-position:right;
 	background-repeat:repeat-y;
 
 	background: rgba(0,0,0,0.75);
 	left: 50px;
-	padding-right: 65px;
+	padding-right: 40px;
 	padding-bottom: 15px;
 	padding-top: 55px;
 	margin-top: -50px;

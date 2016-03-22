@@ -1,4 +1,4 @@
-# VMware Web Client Themes
+# VMware Web Client 6 Themes
 
 ## Requirements
 
@@ -16,7 +16,7 @@ Put the theme folder with the existing directory structure in the right director
 
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/
 
-(One way to transfer the theme files on the VCSA is to enable SFTP access on the VCSA. How this can be done, you may find out here: "[vCSA 6.0 tricks: shell access, password expiration and certificate warnings](http://www.v-front.de/2015/03/vcsa-60-tricks-shell-access-password.html)".
+(One way to transfer the theme files on the VCSA is to enable SFTP access on the VCSA. How this can be done, you may find out here: "[vCSA 6.0 tricks: shell access, password expiration and certificate warnings](http://www.v-front.de/2015/03/vcsa-60-tricks-shell-access-password.html)".)
 
 ## Information
 
@@ -26,5 +26,5 @@ More themes by other people are available at...
  * [github.com/lamw/customize-vsphere-web-client-6.0](https://github.com/lamw/customize-vsphere-web-client-6.0)
 
 ## Themes
-**StarCitizen01**
+**StarCitizen01**: [6.0 and up](https://github.com/patschi/vmware-web-client-themes/tree/master/themes/starcitizen1/6.0), [6.0 U2 and up](https://github.com/patschi/vmware-web-client-themes/tree/master/themes/starcitizen1/6.0u2)
 ![Screenshot of StarCitizen01 Theme](themes/starcitizen1/screenshot.png)
